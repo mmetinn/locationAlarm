@@ -1,8 +1,7 @@
 # Gizlilik Politikası
 
-**Uygulama:** Durakta İn
-**Son Güncelleme:** [GG.AA.YYYY]
-**Yürürlük Tarihi:** [GG.AA.YYYY]
+**Uygulama:** Durakta Alarmı
+**Son Güncelleme:** 25.04.2026
 
 ## 1. Giriş
 
@@ -11,8 +10,8 @@ kullandığınızda kişisel verilerinizin nasıl işlendiğini açıklar.
 Uygulamayı kullanarak bu politikada belirtilen uygulamaları kabul 
 etmiş olursunuz.
 
-Uygulama, [AD SOYAD / ŞİRKET ADI] ("biz", "geliştirici") tarafından 
-geliştirilmiş ve yayınlanmıştır. İletişim: [ILETISIM@EPOSTA.COM]
+Uygulama, Muhammet Metin("biz", "geliştirici") tarafından 
+geliştirilmiş ve yayınlanmıştır. İletişim: muhammetmmetin@gmail.com
 
 Bu politika, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") 
 ve ilgili ikincil mevzuat ile Avrupa Birliği Genel Veri Koruma 
@@ -92,18 +91,13 @@ Uygulama şu üçüncü taraf servisleri kullanır:
 - **App Store / Google Play:** Uygulamanın indirilmesi, güncellenmesi 
   ve abonelik yönetimi için.
 
-[İLERİDE EKLENECEKSE:
-- **Sentry:** Hata raporlama (kişisel veri gönderilmez, yalnızca 
-  anonim hata kayıtları)
-- **RevenueCat:** Abonelik yönetimi (anonim kullanıcı ID'si)]
-
 Bu servislerin gizlilik politikalarını ayrıca incelemenizi öneririz.
 
 ## 6. Çocukların Gizliliği
 
 Uygulama 13 yaş altı çocuklara yönelik değildir. 13 yaş altı 
 kullanıcılardan bilerek kişisel veri toplamıyoruz. Çocuğunuzun bize 
-kişisel veri gönderdiğini düşünüyorsanız lütfen [ILETISIM@EPOSTA.COM] 
+kişisel veri gönderdiğini düşünüyorsanız lütfen  muhammetmmetin@gmail.com
 adresinden bizimle iletişime geçin.
 
 ## 7. Veri Güvenliği
@@ -138,7 +132,7 @@ Uygulama, kişisel verilerinizi sunucularda saklamadığından, veri
 silme talebiniz için uygulamayı cihazınızdan kaldırmanız yeterlidir. 
 Bu işlem, cihazda saklanan tüm verilerinizi siler.
 
-Sorularınız için: [ILETISIM@EPOSTA.COM]
+Sorularınız için:  muhammetmmetin@gmail.com
 
 ## 9. GDPR Kapsamındaki Haklarınız (AB Kullanıcıları İçin)
 
